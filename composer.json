@@ -1,0 +1,15 @@
+{
+    "name": "giorgos_vlachos/phpmvc-framework",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Georgiov77",
+            "email": "giorgos.vlachos1291@gmail.com"
+        }
+    ],
+    "require": {}
+}
